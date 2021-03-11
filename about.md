@@ -1,7 +1,8 @@
 ---
 title: About
 layout: default
-filename: About
+filename: about
+permalink: /about/
 --- 
 
 This is an About page.
