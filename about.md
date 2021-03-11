@@ -4,7 +4,7 @@ layout: default
 permalink: /about/
 filename: about
 --- 
-[Home](index.md)
+[Home](index.md) [About](about.md)
 
 # This is an About page.
 
