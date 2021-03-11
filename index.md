@@ -1,3 +1,3 @@
-Go to [about page](about.md)
+Go to [About](about.md)
 
 This is the home page
