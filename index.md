@@ -1,3 +1,3 @@
 [About](about.md)
 
-This is the home page
+# This is a heading on the home page
