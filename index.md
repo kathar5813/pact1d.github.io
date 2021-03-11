@@ -1,6 +1,5 @@
 ---
 title: Index
-layout: default
 filename: index
 --- 
 
