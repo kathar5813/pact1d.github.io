@@ -1,6 +1,7 @@
 ---
 title: About
 layout: template
+filename: about
 permalink: /about/
 --- 
 
