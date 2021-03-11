@@ -1,7 +1,7 @@
 ---
 title: Index
-layout: template
-filename: Index
+layout: default
+filename: index
 --- 
 
 This is the home page
