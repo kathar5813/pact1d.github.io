@@ -1,6 +1,7 @@
 ---
 title: About
 layout: template
+permalink: /about/
 filename: about
 --- 
 
