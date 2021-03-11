@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
-permalink: pretty
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://pact1d.github.io/
